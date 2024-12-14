@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+    background-color: #ff3131;
+    float: right;
+    padding: 70px;
+    width: 74%;
+    top: 0px;
+    color: white;
+    height: 50px;
+}
+#menu{
+    float: left;
+    background-color: #068d4c;
+    height: 1050px;
+    padding-bottom: 15%;
+    width: 15%;
+    align-items: left;
+    text-align: center;
+    display: block;
+}
+.titulo_menu{
+    color: white;
+    text-align: center;
+}
+#texto_principal, #texto_cardapio, .texto_principal{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+}
+.img_menu{
+    height: 80px;
+    border-radius: 10px;
+    
+}
+.link_menu{
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(../Imagem/pizza_background.jpg);
+}
+a{
+    color:#fff;
+}
+a:hover{
+    background: #046134;
+}
+.pizzas{
+    float: left;
+    background-color: gray;
+    width: 50%;
+}
+p.pizzas{
+    height: 50px;
+    padding-top: 30px;
+    border-radius: 0px 20px 20px 0px;
+}
+img.pizzas{
+    width: 100px;
+}
+#precos{
+    float: right;
+}
+#preco_m{
+    color: #006837;
+}
+#preco_g{
+    color: #C1272D;
+}
+.logos{
+    width: 15px;
+}
+.texto_principal{
+    font-size: 25px;
+}
+.qrcode{
+    width: 150px;
+    text-align: center;
+}
+#instagram_logo{
+    float: right;
+}
